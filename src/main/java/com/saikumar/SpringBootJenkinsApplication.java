@@ -18,6 +18,8 @@ public class SpringBootJenkinsApplication {
 		
 		logger.info("Application started .......");
 		
+		logger.info("Application started second time ......");
+		
 	}
 
 	public static void main(String[] args) {
